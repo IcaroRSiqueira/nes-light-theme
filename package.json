@@ -1,6 +1,7 @@
 {
   "name": "nes-light-theme",
   "displayName": "nes-light-theme",
+  "publisher": "Icaro Siqueira",
   "description": "A warm, retro-inspired light theme featuring the iconic crimsom and cream palette of classic 8-bit consoles",
   "version": "0.0.1",
   "engines": {
@@ -17,5 +18,8 @@
         "path": "./themes/NES Light Theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.9.2"
   }
 }
