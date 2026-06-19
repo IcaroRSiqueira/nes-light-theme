@@ -2,6 +2,12 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "light",
 	"colors": {
+    "button.background": "#b11e14",
+    "button.foreground": "#f2f0e3",
+    "button.hoverBackground": "#8a140d",
+    "button.secondaryBackground": "#2d2d2d",
+    "button.secondaryForeground": "#f2f0e3",
+    "button.secondaryHoverBackground": "#454545",
 		"actionBar.toggledBackground": "#dddddd",
 		"activityBar.activeBackground": "#e4e1d7",
 		"activityBar.activeBorder": "#b11e14",
