@@ -2,6 +2,10 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "light",
 	"colors": {
+    "sash.hoverBorder": "#b11e14",
+    "editorGroup.dropBackground": "#b9211645",
+    "editorGroup.dropIntoPromptBackground": "#e4e1d7",
+    "editorGroup.dropIntoPromptBorder": "#b11e14",
     "button.background": "#b11e14",
     "button.foreground": "#f2f0e3",
     "button.hoverBackground": "#8a140d",
